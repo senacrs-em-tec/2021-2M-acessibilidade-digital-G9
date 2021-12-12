@@ -1,1 +1,5 @@
-# 2021-2M-acessibilidade-ditigal-G9
+# 2021-2M-acessibilidade-digital-G9
+
+- Marina
+- Paulo
+- Izadora
